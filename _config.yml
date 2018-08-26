@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: '联系我们', link: '/contact'}
 
 tagline: >
-  造福患者，全心服务医药研究者
+  造福临床研究行业，全心服务医药研究者和研究服务提供商
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
