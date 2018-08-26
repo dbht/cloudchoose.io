@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: 知数医药
+title: 北京知数医药科技有限公司
 ---
