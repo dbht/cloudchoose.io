@@ -17,6 +17,5 @@ permalink: /contact/
 
 [ouyi2013@163.com](mailto:{{ouyi2013@163.com}})
 
-{% include form.html %}
 
 {% include modal.html %}
