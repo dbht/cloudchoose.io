@@ -189,3 +189,11 @@ The theme is setup just like a normal Jekyll site! Check out [file structure ove
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Usage
+
+在xxx.com域名管理中添加如下记录
+
+        域名	  域名类型	域名状态	
+CNAME	www	  默认	    dbht.github.io
+CNAME	@     默认	    dbht.github.io
