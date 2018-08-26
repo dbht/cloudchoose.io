@@ -5,8 +5,6 @@ featured-img: sleek
 mathjax: true
 ---
 
-# 开始
-
 知数医药提供以下服务
 - CRO
 - 数据管理
