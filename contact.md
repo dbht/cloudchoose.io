@@ -11,11 +11,11 @@ permalink: /contact/
 100000
 
 # 电话
-13717870071
+18310876590
 
 # 邮件
 
-[ouyi2013@163.com](mailto:{{ouyi2013@163.com}})
+
 
 
 {% include modal.html %}
