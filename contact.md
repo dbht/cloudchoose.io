@@ -15,7 +15,7 @@ permalink: /contact/
 
 # 邮件
 
-
+[zhishuzixun@163.com](mailto:{{zhishuzixun@163.com}})
 
 
 {% include modal.html %}
