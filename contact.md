@@ -10,9 +10,6 @@ permalink: /contact/
 # 邮编
 100097
 
-# 电话
-13691448520
-
 # 邮件
 
 [zhishuzixun@163.com](mailto:{{zhishuzixun@163.com}})
